@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.env
+*.sqlite3
+*.png
+*.jpg
+*.jpeg
+*.log
+*.json
+*.npz
+*.npy
+*.csv
